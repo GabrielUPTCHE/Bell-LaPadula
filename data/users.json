@@ -13,30 +13,5 @@
     "name": "visitante",
     "password": "visitante123",
     "levelAccess": 1
-  },
-  {
-    "name": "gabo",
-    "password": "1234",
-    "levelAccess": 3
-  },
-  {
-    "name": "admin2",
-    "password": "2468",
-    "levelAccess": 3
-  },
-  {
-    "name": "vis",
-    "password": "1234",
-    "levelAccess": 1
-  },
-  {
-    "name": "pruevvv",
-    "password": "1234",
-    "levelAccess": 2
-  },
-  {
-    "name": "prueba",
-    "password": "1234",
-    "levelAccess": 1
   }
 ]
